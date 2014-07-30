@@ -1,3 +1,7 @@
 Esta es una nueva prueba para comenzar a usar GIT y Github
 
 Segundo intento
+
+Un nuevo cambio en éste archivo
+
+Archivo creado con Atom
